@@ -10,7 +10,7 @@ This guide explains how to set up Ansible on an Ubuntu server, configure passwor
 
 ## Repository Files
 
-1. **`inventory`**  
+1. **inventory**  
    Contains the list of target servers with their private IP addresses.  
    Example:
    ```ini
