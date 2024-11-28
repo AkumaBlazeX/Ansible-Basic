@@ -19,7 +19,7 @@ This guide explains how to set up Ansible on an Ubuntu server, configure passwor
    <target's private IP>
    ```
 
-2. **`first_playbook.yml`**  
+2. **first_playbook.yml**  
    An Ansible playbook to install and start the Nginx service on the target servers.
 
 ---
